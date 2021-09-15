@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Here](https://lucasjld.fr/frontend-mentor/index.html)
+- Live Site URL: [Here](https://ljld.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
