@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-(/images/challenge_completed.png)
+[screen](/images/challenge_completed.png)
 
 ### Links
 
