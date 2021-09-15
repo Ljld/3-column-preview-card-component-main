@@ -43,5 +43,5 @@ CSS Transitions for my buttons. More at ease with responsive design in general a
 
 ## Author
 
-- Website - [Add your name here](https://www.lucasjld.fr)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ljld)
+- Website - [lucasjld.fr](https://www.lucasjld.fr)
+- Frontend Mentor - [@Ljld](https://www.frontendmentor.io/profile/Ljld)
