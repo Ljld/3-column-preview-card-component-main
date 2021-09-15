@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](.index.html)
-- Live Site URL: [Add live site URL here](https://lucasjld.fr/frontend-mentor/index.html)
+- Live Site URL: [Here](https://lucasjld.fr/frontend-mentor/index.html)
 
 ## My process
 
